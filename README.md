@@ -1,1 +1,3 @@
-# Blacklitterman_Modle
+# Blacklitterman Modle
+
+Portfolio manager John helps manage a mega-sized investment fund of $45 billion. The fund has no explicit liability profile to match and does not contain any investment that has a specific termination date. It is a partially illiquid fund, a small percentage of which is occasionally withdrawn based on the needs of its sponsors. Therefore, its investments cannot be wholly illiquid. The allocation of the fund can be modeled based on a U.S. multi-asset portfolio, which generating a desirable historical portfolio return of 10.16% and beta of 3.02.  John’s major goal is to keep it generating steady return over the medium to long term even if the market may swing up and down in the shorter term. The white paper demonstrated the advantages of Black-Litterman model compared to the classical mean variance optimization method.
